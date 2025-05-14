@@ -15,8 +15,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/nenertiy/express-backend-ticket.git
+cd express-backend-ticket
 ```
 
 2. Создайте файл `.env` в корне проекта:
